@@ -7,4 +7,4 @@ POST localhost:80/Receipts/process
 ![alt text](https://github.com/bluemists/Receipt-Processor-Task/blob/main/Testing1.png)
 
 POST localhost:80/receipts/2765/points
-![alt text](https://github.com/bluemists/Receipt-Processor-Task/blob/main/Testing2.png)
+![alt text](https://github.com/bluemists/Receipt-Processor-Task/blob/main/Testing3.png)
